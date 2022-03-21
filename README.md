@@ -6,4 +6,6 @@
 ## Materiais de Aula
 
 * [Aula 0 - Apresentação do Curso](https://docs.google.com/presentation/d/1QrR0I04DRvwD9T--S7jy3-ZZNDRlLCSOueIjF2OcCM0/edit?usp=sharing)
-* 
+* [Aula 1 - Fundamentos da Web e Servidores HTTP](https://docs.google.com/presentation/d/1JVntquGfmx1VlkIUdARxFNOOx5vFAQYmVar4iTN1Wt0/edit?usp=sharing)
+* [Aula 2 - Fundamentos da Web e Servidores HTTP - Laboratório](https://docs.google.com/presentation/d/1LBNZ3DcmC8vSFlEK6dHr8QWz98PhvvYJ2YD6ONeaUr8/edit?usp=sharing)
+

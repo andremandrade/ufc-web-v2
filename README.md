@@ -9,5 +9,5 @@
 * [Aula 1 - Fundamentos da Web e Servidores HTTP](https://docs.google.com/presentation/d/1JVntquGfmx1VlkIUdARxFNOOx5vFAQYmVar4iTN1Wt0/edit?usp=sharing)
 * [Aula 1P - Fundamentos da Web e Servidores HTTP - Laboratório](https://docs.google.com/presentation/d/1LBNZ3DcmC8vSFlEK6dHr8QWz98PhvvYJ2YD6ONeaUr8/edit?usp=sharing)
 * [Aula 2 - Frontend - HTML](https://docs.google.com/presentation/d/1LBv31cIV_nXdMDC_zdYNtb8qSRrNYoX2D94IeojeJtw/edit?usp=sharing)
-* [Aula 2P - Frontend - HTML - Laboratório]()
+* [Aula 2P - Frontend - HTML - Laboratório](https://docs.google.com/presentation/d/1iUm5YCXhVIEw3CGzx8LD38XRLhgBEQU2YUlak4_vpeE/edit?usp=sharing)
 

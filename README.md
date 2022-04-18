@@ -13,3 +13,6 @@
 * [Aula 3 - MPA - Template Engines](https://docs.google.com/presentation/d/1mthrTbCkoYzr58yl0kQhXGGBVYNaeK5ukZyc-kEXG28/edit?usp=sharing)
 * [Aula 3P - MPA - Template Engines](https://docs.google.com/presentation/d/1t27xqizTFonidtkhL9Hu6WK4MuhN9jY1n0zDS0budEs/edit?usp=sharing)
 
+## Materiais Complementares
+
+* [Versionando e distribuindo código fonte com GIT](https://docs.google.com/presentation/d/1bp7-JsbN2SB8zxaXNRB7XDpK0xmK0EMKFpcVvVOO02w/edit?usp=sharing)

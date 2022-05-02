@@ -20,6 +20,7 @@
 ## Materiais Complementares
 
 * [Versionando e distribuindo código fonte com GIT](https://docs.google.com/presentation/d/1bp7-JsbN2SB8zxaXNRB7XDpK0xmK0EMKFpcVvVOO02w/edit?usp=sharing)
+* [CSS - Aplicando estilos em páginas Web](https://docs.google.com/presentation/d/1_hGLu7W6VVRQH4Dr-tACBvnftQQ-Ddw6nwoo3pnNjlk/edit?usp=sharing)
 
 ## Turmas
 

@@ -17,6 +17,8 @@
 * [Aula 5 - MPA - Autenticação e Filtros](https://docs.google.com/presentation/d/1BAERNIf0Z8BEwH3-iMPSheR0TgXmYJLo7yaSFwzsR44/edit?usp=sharing)
 * [Aula 5P - MPA - Autenticação e Filtros](https://docs.google.com/presentation/d/1bahSygyVc1dacMwxJodWh03k7WEq5Kc9UEw7bkoQ-PY/edit?usp=sharing)
 * [Aula 6 - MPA - Sessão e Cookies](https://docs.google.com/presentation/d/1kevYEjqbNd33XxQt_zZLRz78kp966Fer40imkj8od-0/edit?usp=sharing)
+* **Single-page Application**
+* [Aula 7 - Rest com Spring Boot + AJAX](https://docs.google.com/presentation/d/1R9bRYWru9yu4-YibX2S8aWQ8WijtbEICpepAw9w1rOE/edit?usp=sharing)
 
 ## Materiais Complementares
 

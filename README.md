@@ -21,6 +21,7 @@
 * [Aula 7 - Rest com Spring Boot + AJAX](https://docs.google.com/presentation/d/1R9bRYWru9yu4-YibX2S8aWQ8WijtbEICpepAw9w1rOE/edit?usp=sharing)
 * [Aula 7P - Rest com Spring Boot + AJAX](https://docs.google.com/presentation/d/1DALxlHMCoseP1J8nFWCKsWVJgM47ENMFq1uk3aM-EYc/edit?usp=sharing)
 * [Aula 8 - JPA com Spring Data](https://docs.google.com/presentation/d/1EsPbP-OxLk2lnzKxAXuGsHUTpmXtAJBAEwG1Vikm3Nc/edit?usp=sharing)
+* [Aula 8P - JPA com Spring Data](https://docs.google.com/presentation/d/1_jxIZsaeavKM_R1XslUc2XEXJYsNBoK3Tz8YJ0ZP34c/edit?usp=sharing)
 
 ## Materiais Complementares
 

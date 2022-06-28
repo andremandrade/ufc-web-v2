@@ -25,6 +25,8 @@
 * [Aula 9 - JPA com Spring Data](https://docs.google.com/presentation/d/1qWmiN7yyXpLOsMxHXqYpoWJBxfxMxYRhrJBF9pNrSIc/edit?usp=sharing)
 * [Aula 9P - JPA com Spring Data](https://docs.google.com/presentation/d/1zo9hX48svmKOU27Ou_fuTt_LWJ7RCFL7BQLkTD9huLo/edit?usp=sharing)
 * [Aula 10 - SPA - Autenticação e Segurança de REST APIs](https://docs.google.com/presentation/d/1JhfWN2Mu5sMyOmEqGgvwLWgbtt05TxZWwFf1cF4c-DY/edit?usp=sharing)
+* [Aula 11 - SPA - Autenticação com Angular](https://docs.google.com/presentation/d/16k_JA4GkUP_WfyzMq6-_x0aaU2HB63zXSDVQpE-pL34/edit?usp=sharing)
+* [Aula 11P - SPA - Autenticação com Angular](https://docs.google.com/presentation/d/1Gl-Ai9U5RhbYLOlv7xOTnNbhmOD1sO26EZDlU9PbzQk/edit?usp=sharing)
 
 ## Materiais Complementares
 

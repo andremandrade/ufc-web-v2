@@ -3,6 +3,8 @@
 ### Campus de Crateús
 ### Prof. André Meireles 
 
+## [Repositório de Projetos Exemplo](https://github.com/andremeirelesa/ufc-web-git-20222)
+
 ## Materiais de Aula
 
 * [Aula 0 - Apresentação do Curso](https://docs.google.com/presentation/d/1QrR0I04DRvwD9T--S7jy3-ZZNDRlLCSOueIjF2OcCM0/edit?usp=sharing)

@@ -40,7 +40,7 @@
 ## Projetos
 
 * [Projeto 01 - Multi-page Application](https://docs.google.com/presentation/d/1y_jsRruzNETiSHoQaQnaai5JaZH4u4qSTfg-LfLAAWM/edit?usp=sharing)
-* [Projeto 02 - Single-page Application](https://docs.google.com/presentation/d/1vcPvQhelmbn8_tqVjy-hZ5XNN4AMLSxaUelke0jZJkk/edit?usp=sharing)
+* [Projeto 02 - Single-page Application](https://docs.google.com/presentation/d/1proU6_GGTe-PylkrNLOWND_7ucLbEFWtQGs3jOnD6qk/edit?usp=sharing)
 
 ## Turmas
 
